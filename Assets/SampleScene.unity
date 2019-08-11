@@ -441,11 +441,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _offset: 0
   _linkedRenderers:
-  - {fileID: 0}
+  - {fileID: 272232290}
   - {fileID: 1294880409}
   - {fileID: 1884728600}
   - {fileID: 1962940729}
-  - {fileID: 272232290}
 --- !u!4 &1344785230
 Transform:
   m_ObjectHideFlags: 0
