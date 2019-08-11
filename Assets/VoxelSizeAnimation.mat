@@ -38,5 +38,5 @@ Material:
     - _Speed: 2.04
     m_Colors:
     - _Color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
-    - _EmissionColor: {r: 1, g: 0.41017187, b: 0.11792451, a: 1}
+    - _EmissionColor: {r: 3.9999995, g: 1.65445, b: 0.48167533, a: 1}
     - _ShadowColor: {r: 0.8, g: 0.8, b: 1, a: 1}
